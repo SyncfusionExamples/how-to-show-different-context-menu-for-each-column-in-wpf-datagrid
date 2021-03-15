@@ -1,4 +1,4 @@
-# How to show different context menu for each column in wpf datagrid?
+# How to show different context menu for each column in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to show different context menu for each column in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
